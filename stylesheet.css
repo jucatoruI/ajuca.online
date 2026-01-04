@@ -10,7 +10,7 @@ body {
   font-family: OpenDyslexic;
 }
 
-.central_container {
+.container {
     width: 1760px;
     height: 950px;
 
@@ -270,3 +270,4 @@ p{
 
     
 }
+
