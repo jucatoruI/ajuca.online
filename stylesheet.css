@@ -10,7 +10,7 @@ body {
   font-family: OpenDyslexic;
 }
 
-.container {
+.central_container {
     width: 1760px;
     height: 950px;
 
@@ -52,7 +52,7 @@ body {
 
 .photo{
 
-    /*background-image: url("20241024_233926.png");*/
+    background-image: url("assets/20241024_233926.png");
     box-shadow: 0 0 18px 3px rgba(0, 0, 0, 0.336);
     border-radius: 5%;
     filter:blur(1px);
@@ -76,22 +76,22 @@ body {
     grid-column: 7/8;
     grid-row: 2/2;
 
-    background-color: blueviolet;
+    background-image: url("assets/map.png");
+    background-size:contain;
+
+
     transition: 1s ease-in-out;
     z-index: 1;
     animation: apear 2s;
+
+    
 }
 
 /*needs tuning*/
 .map:hover{
     cursor: pointer;
-    
-    margin-bottom: -328%;
-    margin-left: -465%;
-
-    transition: 1s ease-in-out;
-    z-index: 1;
 }
+
 
 .textbox{
    grid-column: 3/8;
