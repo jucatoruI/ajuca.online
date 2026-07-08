@@ -37,9 +37,6 @@ body {
 .map {
     /*look at thaaat, it takes you "anywhere" and "everywhere"*/
 
-    grid-column: 7/8;
-    grid-row: 2/2;
-
     background-image: url("assets/map.png");
     background-size:contain;
     
