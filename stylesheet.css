@@ -55,11 +55,6 @@ body {
     cursor: pointer;
 }
 
-.textbox{
-   grid-column: 3/8;
-   grid-row: 2/6;   
-}
-
 .wavy-text span{
     display: inline-block;
     font-size: 24px;
