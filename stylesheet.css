@@ -25,10 +25,6 @@ body {
 
 .photo{
     animation: apear 2s;
-   
-    grid-column: 1/3;
-    grid-row: 2/6;
-
     /*I feel perceived over here*/
 }
 
