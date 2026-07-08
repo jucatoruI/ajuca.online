@@ -5,8 +5,7 @@
 
 body { 
   background-size: cover;
-  display:flex;
-  flex-wrap: wrap;
+  display:grid;
   font-family: OpenDyslexic;
   margin: 0;
   padding: 0;
@@ -16,9 +15,6 @@ body {
 
 .gridbox{
 
-    width: 100%;
-    height: 100%;
-    
     display: grid; 
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
