@@ -7,13 +7,13 @@ body {
   background-size: cover;
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(6, calc(100vh / 6)); /* Forces strict height */
+  grid-template-rows: repeat(6, calc(100vh / 6));
   font-family: OpenDyslexic;
   margin: 0;
   padding: 0;
   width: 100vw;
   height: 100vh;
-  overflow: hidden; /* Prevents accidental scrollbars */
+  overflow: hidden; 
 }
 
 .gridbox{
