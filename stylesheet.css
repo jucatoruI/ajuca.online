@@ -25,13 +25,7 @@ body {
 }
 
 .photo{
-
-    box-shadow: 0 0 18px 3px rgba(0, 0, 0, 0.336);
-    border-radius: 5%;
-    filter:blur(1px);
-
     animation: apear 2s;
-    /*animation: rotating 5s infinite;*/
    
     grid-column: 1/3;
     grid-row: 2/6;
