@@ -14,22 +14,7 @@ body {
   height: 100%;  
 }
 
-/*.ddddddddddddddddheader{
-
-}*/
-
-/*.leftbox{
-
-}*/
-
-.gridbox76{
-    width: 1000px;
-    height: 800px;
-
-    margin-top: auto;
-    margin-bottom: auto;
-    margin-left: auto;
-    margin-right: auto;
+.gridbox{
 
     display: grid; 
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
