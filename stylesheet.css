@@ -39,7 +39,7 @@ body {
 .map {
     /*look at thaaat, it takes you "anywhere" and "everywhere"*/
 
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat; 
     background-position: center;
     z-index: 1;
