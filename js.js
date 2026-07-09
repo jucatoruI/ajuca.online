@@ -1,11 +1,11 @@
 const photo = document.querySelector(".photo");
 
 
-function press(){
-    alert("AHHHH, stop that, I'm gonna throw up");
-}
+//function press(){
+    //alert("AHHHH, stop that, I'm gonna throw up");
+//}
 
-photo.addEventListener("mousedown", press);
+//photo.addEventListener("mousedown", press);
 
 //function enlarge(){}
 //photo.addEventListener("click", );
