@@ -1,12 +1,11 @@
 const photo = document.querySelector(".photo");
 
-//doesn't rotate on y yet
-//function dragonY(){
-  //  alert("AHHHH, stop that, I'm gonna throw up");
-//}
 
-//photo.addEventListener("mousedown", dragonY);
+function press(){
+    alert("AHHHH, stop that, I'm gonna throw up");
+}
 
-//not working 
+photo.addEventListener("mousedown", press);
+
 //function enlarge(){}
 //photo.addEventListener("click", );
