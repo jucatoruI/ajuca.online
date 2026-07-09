@@ -39,7 +39,6 @@ body {
 .map {
     /*look at thaaat, it takes you "anywhere" and "everywhere"*/
 
-    background-image: url("assets/map.png");
     background-size:contain;
     
     z-index: 1;
