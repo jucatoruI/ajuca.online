@@ -33,6 +33,7 @@ body {
 
 .photo:hover{
     cursor: grab;
+    alert:"Uhm, pls don't spin me, it makes me sick..."
 }
 
 .map {
