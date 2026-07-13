@@ -37,6 +37,7 @@ background-color: #0071ff;
  grid-template-raws: repeat(5, 1fr);
  gap: 1em;
  grid-template-areas:
+     "arrow arrow arrow arrow arrow"
      "arrow"
 }
 
