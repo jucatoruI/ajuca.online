@@ -37,8 +37,11 @@ background-color: #0071ff;
  grid-template-raws: repeat(7, 1fr);
  gap: 1em;
  grid-template-areas:
-     "arrow arrow arrow arrow arrow arrow arrow"
-     "arrow left "
+     "arrowup arrowup arrowup arrowup arrowup arrowup arrowup"
+     "arrowleft photo photo text text text arrowright"
+     "arrowleft photo photo text text text arrowright"
+     "arrowleft photo photo text text text arrowright"
+     "arrowdown arrowdown arrowdown arrowdown arrowdown arrowdown arrowdown";
 }
 
 .photo{
