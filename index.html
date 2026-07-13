@@ -10,17 +10,17 @@
         <script type="module" src="https://unpkg.com/@splinetool/viewer@1.12.98/build/spline-viewer.js"></script>
 
     </head>
-<body >
+<body>
 
     <video autoplay loop muted playsinline class="bg-video">
         <source src="assets/bg.mp4" type="video/mp4">
     </video>
 
     <div class="gridbox">
-        <div class="photo">
+        <div class="photo" style="grid-area:photo">
         <spline-viewer url="https://prod.spline.design/s6okipVaj5OtX7nC/scene.splinecode"></spline-viewer>
         </div>
-        <div class="textbox" style="grid-column: 3 / span 3; grid-row: 2 / span 3;">
+        <div class="textbox" style="grid-area:text">
         <h3>
         <div class="wavy-text"><span>W</span><span>e</span><span>l</span><span>c</span><span>o</span><span>m</span><span>e</span></div>
         <p class="txt">
@@ -34,7 +34,7 @@
         </p>
         </div>
         
-        <div class="map"; style= "background-image: url('assets/tablet.png'); rotate:90deg">
+        <div class="map"; style= "background-image: url('assets/tablet.png'); rotate:90deg; grid-area:map">
             <!--#1Y-->
         </div>
     </dib>
