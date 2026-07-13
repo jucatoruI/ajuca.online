@@ -5,15 +5,16 @@
 
 body { 
   background-size: cover;
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(6, calc(100vh / 6));
+  dispplay:flex;
   font-family: OpenDyslexic;
+  align-items:center;
+  justify-content:center;
   margin: 0;
   padding: 0;
   width: 100vw;
   height: 100vh;
   overflow: hidden; 
+  
 }
 
 .bg-video {
@@ -28,7 +29,7 @@ body {
 
 .gridbox{
  display: grid; 
- grid-template-columns: repeat(3, 1fr);
+ grid-template-columns: repeat(5, 1fr);
  gap: 20px;
  padding: 20px;     
 }
