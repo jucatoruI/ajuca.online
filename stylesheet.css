@@ -9,10 +9,9 @@ body {
   font-family: OpenDyslexic;
   align-items:center;
   justify-content:center;
-  margin: 0;
   padding: 0;
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   overflow: hidden; 
   
 }
@@ -67,8 +66,6 @@ background-color: #0071ff;
     animation: apear 2s;
 
 }
-
-/*needs tuning*/
 .map:hover{
     cursor: pointer;
 }
@@ -110,11 +107,6 @@ p{
 .swivling-text span:nth-child(n+1) {
     animation-delay: calc(sibling-index()*0.1s);
 }
-
-
-/*.rightbox{
-
-}*/
 
 @keyframes apear {
 0%{opacity: 0;}
