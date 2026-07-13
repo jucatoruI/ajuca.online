@@ -30,8 +30,8 @@ body {
 .gridbox{
  display: grid; 
  grid-template-columns: repeat(5, 1fr);
- gap: 20px;
- padding: 20px;     
+ grid-template-raws: repeat(5, 1fr);
+ gap: 1em;     
 }
 
 .photo{
