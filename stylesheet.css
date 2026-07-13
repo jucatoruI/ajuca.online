@@ -27,13 +27,17 @@ body {
   z-index: -1; 
 }
 
+.arrow {
+background-color: #0071ff;
+}
+
 .gridbox{
  display: grid; 
  grid-template-columns: repeat(5, 1fr);
  grid-template-raws: repeat(5, 1fr);
  gap: 1em;
  grid-template-areas:
-     ""
+     "arrow"
 }
 
 .photo{
