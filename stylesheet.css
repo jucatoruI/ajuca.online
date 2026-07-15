@@ -11,6 +11,11 @@ body {
   min-height: 100vh;
 }
 
+.nothing {
+background-color: #0071ff;
+opacity:0%
+}
+
 .bg-video {
   position: fixed;
   top: 0;
