@@ -27,8 +27,8 @@ background-color: #0071ff;
 
 .gridbox{
  display: grid;
- grid-template-columns: repeat(5, 1fr);
- grid-templete-raws: repeat(7, 1fr);
+ grid-template-columns: repeat(7, 1fr);
+ grid-templete-raws: repeat(5, 1fr);
  gap: 1em;
  grid-template-areas:
      "arrowup arrowup arrowup arrowup arrowup arrowup arrowup"
