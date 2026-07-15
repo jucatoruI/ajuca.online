@@ -59,9 +59,9 @@ overflow: hidden;
     background-size: 25%;
     background-repeat: no-repeat; 
     background-position: center;
-    z-index: 1;
+    z-index: 2;
     animation: apear 2s;
-
+    position: absolute;
 }
 .map:hover{
     cursor: pointer;
