@@ -3,6 +3,12 @@
     src: url(OpenDyslexic-Italic.otf);
 }
 
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body { 
   background-size: cover;
   font-family: OpenDyslexic;
