@@ -6,7 +6,6 @@
 body { 
   background-size: cover;
   font-family: OpenDyslexic;
-  display: flex;
   padding: 0;
   width: 100vw;
   min-height: 100vh;
@@ -28,10 +27,8 @@ background-color: #0071ff;
 
 .gridbox{
  display: grid;
- align-items: center;
- justify-content: center;
  grid-template-columns: repeat(5, 1fr);
- grid-auto-raws: repeat(7, 1fr);
+ grid-templete-raws: repeat(7, 1fr);
  gap: 1em;
  grid-template-areas:
      "arrowup arrowup arrowup arrowup arrowup arrowup arrowup"
