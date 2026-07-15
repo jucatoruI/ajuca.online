@@ -11,10 +11,6 @@ body {
   min-height: 100vh;
 }
 
-.nothing {
-background-color: #0071ff;
-opacity:0%
-}
 
 .bg-video {
   position: fixed;
@@ -36,11 +32,11 @@ background-color: #0071ff;
  grid-template-rows: repeat(5, 1fr); 
  gap: 1em;
  grid-template-areas:
-     "nothing nothing nothing arrowup nothing nothing nothing"
-     "nothing photo photo text text text nothing"
+     "arrowup arrowup arrowup arrowup arrowup arrowup arrowup"
      "arrowleft photo photo text text text arrowright"
-     "nothing photo photo text text text nothing"
-     "nothing nothing nothing arrowdown nothing nothing nothing";
+     "arrowleft photo photo text text text arrowright"
+     "arrowleft photo photo text text text arrowright"
+     "arrowdown arrowdown arrowdown arrowdown arrowdown arrowdown arrowdown";
 grid-auto-rows: 0px;
 grid-auto-columns: 0px;
 overflow: hidden; 
