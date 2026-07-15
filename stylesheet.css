@@ -36,6 +36,9 @@ background-color: #0071ff;
      "arrowleft photo photo text text text arrowright"
      "arrowleft photo photo text text text arrowright"
      "arrowdown arrowdown arrowdown arrowdown arrowdown arrowdown arrowdown";
+grid-auto-rows: 0px;
+grid-auto-columns: 0px;
+overflow: hidden; 
 }
 
 .photo{
