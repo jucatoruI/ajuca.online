@@ -1,0 +1,16 @@
+res://GameModules/Player/JumpStates/air_jump.tres::ff9fe147beefd22e0783723bb2f41959::1794775160::res://.godot/exported/133200997/export-e2fc2babd202f13bab1a74bf2fb6e78f-air_jump.res
+res://GameModules/Player/JumpStates/ground_jump.tres::e667fe1b16ee1391fc06ccd1ec867c05::1794775160::res://.godot/exported/133200997/export-798314f90f7464d08e1fdfb6d9ad32bc-ground_jump.res
+res://GameModules/Player/MovementStates/crouch/crouch_idle.tres::21244e849360045ba41598ee5dac5c93::1794775160::res://.godot/exported/133200997/export-a976c13709f84707b075ea6ba5fe1cec-crouch_idle.res
+res://GameModules/Player/MovementStates/crouch/crouch_sprint.tres::57ca2ea88b9e78166ddc6e3abd973cc7::1794775160::res://.godot/exported/133200997/export-95997c2c5c23bdd621f8b26988669881-crouch_sprint.res
+res://GameModules/Player/MovementStates/crouch/crouch_walk.tres::f71659512709a3b4c11ac1571fd16150::1794775160::res://.godot/exported/133200997/export-cb3139684dcd3a58f5035c8537c6a980-crouch_walk.res
+res://GameModules/Player/MovementStates/prone/prone_idle.tres::704f9450a312f28435f66932e6d2fe87::1794775160::res://.godot/exported/133200997/export-e96d2c057d958337e5407d08f75b6c2b-prone_idle.res
+res://GameModules/Player/MovementStates/prone/prone_sprint.tres::fe69b66fda17c60e99e08597d0a1a575::1794775160::res://.godot/exported/133200997/export-e42b004ca7b1ba188675a2a2edcef6e9-prone_sprint.res
+res://GameModules/Player/MovementStates/prone/prone_walk.tres::6c9d88b406675229ce845cbbe3704d81::1794775160::res://.godot/exported/133200997/export-abfbb1eef5ae5097670523c12be99e9c-prone_walk.res
+res://GameModules/Player/MovementStates/stealth/stealth_idle.tres::dd464f5c53226ea5f69bc0e316fd5c52::1794775160::res://.godot/exported/133200997/export-e51de2ea6bb3a78a4c6ccda9ac6f9053-stealth_idle.res
+res://GameModules/Player/MovementStates/stealth/stealth_walk.tres::107d9f8caf7f1048efc1c75189a16e1e::1794775160::res://.godot/exported/133200997/export-a415c82f156c05404bb276070fa50f41-stealth_walk.res
+res://GameModules/Player/MovementStates/upright/upright_idle.tres::ca993f8db23e45a1f5de6381047da9c6::1794775160::res://.godot/exported/133200997/export-4ebfd35e7c3f0bc222aeacff7b334e88-upright_idle.res
+res://GameModules/Player/MovementStates/upright/upright_run.tres::59799bab2babefa0d622e4738f5e20be::1794775160::res://.godot/exported/133200997/export-2076e69f8c96beb24cbbcdc78a281cad-upright_run.res
+res://GameModules/Player/MovementStates/upright/upright_sprint.tres::047aafaa7eb8bd72c16a6059b33a1f22::1794775160::res://.godot/exported/133200997/export-58e88be7a103d9f203d226e256050838-upright_sprint.res
+res://GameModules/Player/MovementStates/upright/upright_walk.tres::08289842408968e3b8a1d979500e98e6::1794775160::res://.godot/exported/133200997/export-94802bba160294dec407d638415c6d22-upright_walk.res
+res://GameModules/Player/godot_chan_4.tscn::c1ff1f67568cbcf9faf88176cae73e7a::1794775160::res://.godot/exported/133200997/export-b3fbdfd7ae896ea1f83f3ee0b813bf40-godot_chan_4.scn
+res://main_scene.tscn::dc19d289b80890d930b24fcba848aa17::1794775372::res://.godot/exported/133200997/export-fac9db9380da720a7609154e1ecab771-main_scene.scn
