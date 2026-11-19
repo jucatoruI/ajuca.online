@@ -13,4 +13,4 @@ res://GameModules/Player/MovementStates/upright/upright_run.tres::59799bab2babef
 res://GameModules/Player/MovementStates/upright/upright_sprint.tres::047aafaa7eb8bd72c16a6059b33a1f22::1795079456::res://.godot/exported/133200997/export-58e88be7a103d9f203d226e256050838-upright_sprint.res
 res://GameModules/Player/MovementStates/upright/upright_walk.tres::08289842408968e3b8a1d979500e98e6::1795079456::res://.godot/exported/133200997/export-94802bba160294dec407d638415c6d22-upright_walk.res
 res://GameModules/Player/godot_chan_4.tscn::c1ff1f67568cbcf9faf88176cae73e7a::1795079456::res://.godot/exported/133200997/export-b3fbdfd7ae896ea1f83f3ee0b813bf40-godot_chan_4.scn
-res://main_scene.tscn::d44fad6e4625a09697f6dc3929186f74::1795079963::res://.godot/exported/133200997/export-fac9db9380da720a7609154e1ecab771-main_scene.scn
+res://main_scene.tscn::e3e899b4bf1cd2a376fbf5913a97e57b::1795080523::res://.godot/exported/133200997/export-fac9db9380da720a7609154e1ecab771-main_scene.scn
